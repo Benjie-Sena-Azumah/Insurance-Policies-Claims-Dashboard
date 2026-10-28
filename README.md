@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insurance Risk & Claims Analysis Dashboard
 
 An interactive **Power BI** dashboard that centralizes policyholder and claims data for an insurance company, giving stakeholders a single place to track performance, spot trends, and identify risk factors.
@@ -116,6 +117,4 @@ _Based on the Total Claims view of the dashboard._
 3. Use the **Select measure** dropdown to toggle between *Total Claims* and *Total Policies*.
 4. Click any chart element (a car make, age bracket, zone, etc.) to **cross-filter** the rest of the dashboard.
 5. Hover over visuals for tooltips with exact values.
-
-
 
